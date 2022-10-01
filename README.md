@@ -33,7 +33,7 @@ struct node{     //定义链表的一个节点
 };
 
 struct list{            //封装
-struct node *head;     //相当于一个二级指针，用LIST来改变head。   用结构而不是直接传&head是为了工程效率
+struct node *head;     //相当于一个二级指针
 };
 
 void add(struct list* plist,int num);  //给链表增加节点的函数
@@ -47,13 +47,13 @@ int num;
 do{
     scanf("%d",&num);
     if(num!=-1){
-        add(&LIST,num);       //如果直接传head，只是传了head的值，在函数里不能改变head
+        add(&LIST,num);      
     }
 }while(num!=-1);
 
 print(&LIST);
 
-scanf("%d",&num);            //链表的查找
+scanf("%d",&num);            //链表查找
 struct node *p;          
 int isfound=0;
 for(p=LIST.head;p;p=p->next){
