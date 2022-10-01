@@ -8,14 +8,14 @@
 ### 3）implementation：
         I commanded the basic usage of C.
         I knew the process of writing,compiling and running a C program.
-        i can use gcc and gdb in the terminal.
+        I can use gcc and gdb in the terminal.
         I configured the programming environment by writing the ".vscode" file on vscode, realizing the "auto-compiling".
         I can use git to synchronize my personal code on Github.
         I used Centos7 on vmware previously, but now I use Ubuntu20.04 on vmware to creat linux environment.
         I commanded the usage of mobaxterm, and successfully conneted my Ubuntu on vmware,so that I can program on mobaxterm succinctly.
         If the team offers the server ,I think I can connet it successfully.
 ### 4)problems：
-     the writing of config file、configure public and private keys for password-free login
+     the writing of config file、configuring public and private keys for password-free login
 ### 5)plan;
       First,I'll go deep into the usage of insutruction in Linux（Ubuntu20.04），guaranteeing that I can develop in Linux environment expertly and efficiently.
       Next, I'll learn more about SSH and the writing of "config" file.
