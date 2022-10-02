@@ -12,8 +12,8 @@
         I configured the programming environment by writing the ".vscode" file on vscode, realizing the "auto-compiling".
         I can use git to synchronize my personal code on Github.
         I used Centos7 on vmware previously, but now I use Ubuntu20.04 on vmware to creat linux environment.
-        I commanded the usage of mobaxterm, and successfully conneted my Ubuntu on vmware,so that I can program on mobaxterm succinctly.
-        If the team offers the server ,I think I can connet it successfully.
+        I commanded the usage of mobaxterm, and successfully conneted my Ubuntu on vmware by SSH,so that I can program on mobaxterm succinctly.
+        If the team offers the server ,I think I can connect it successfully.
 ### 4)problems：
      the writing of config file、configuring public and private keys for password-free login
 ### 5)plan;
@@ -24,6 +24,5 @@
       programming.
 ### 6）week1 code:
        https://github.com/HuanYeMengYu/Week1code
-
 ## Week2
 ## Week3
