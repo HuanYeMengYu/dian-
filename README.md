@@ -16,7 +16,7 @@
         If the team offers the server ,I think I can connect it successfully.
 ### 4)problems：
      the writing of config file、configuring public and private keys for password-free login
-### 5)plan;
+### 5)plan：
       First,I'll go deep into the usage of insutruction in Linux（Ubuntu20.04），guaranteeing that I can develop in Linux environment expertly and efficiently.
       Next, I'll learn more about SSH and the writing of "config" file.
       Maybe,I'll try to learn the basic usage of C++.
@@ -25,4 +25,10 @@
 ### 6）week1 code:
        https://github.com/HuanYeMengYu/Week1code
 ## Week2
+### 1)learning hours:
+### 2)learning progress；
+### 3）implementation：
+### 4)problems：
+### 5)plan：
+### 6）week2 code:
 ## Week3
