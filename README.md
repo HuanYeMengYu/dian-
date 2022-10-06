@@ -30,5 +30,5 @@
 ### 3）implementation：
 ### 4)problems：
 ### 5)plan：
-### 6）week2 code:
+### 6）week2 code:https://github.com/HuanYeMengYu/week2code
 ## Week3
