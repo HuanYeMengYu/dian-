@@ -22,8 +22,7 @@
       Maybe,I'll try to learn the basic usage of C++.
       Then,I'll learn the knowledge of computer network to implement the task "echo server"， and if time permitting,I'll learn the multithreading 
       programming.
-### 6）week1 code:
-       https://github.com/HuanYeMengYu/Week1code
+### 6）week1 code:https://github.com/HuanYeMengYu/Week1code
 ## Week2
 ### 1)learning hours:
 ### 2)learning progress；
