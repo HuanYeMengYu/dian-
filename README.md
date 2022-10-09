@@ -25,9 +25,16 @@
 ### 6）week1 code:https://github.com/HuanYeMengYu/Week1code
 ## Week2
 ### 1)learning hours:
+              sun:roughly 15 hours
 ### 2)learning progress；
+                     I'm learning the Linux multitreading and the IO model.
 ### 3）implementation：
+                     I learnt the computer network structure.
+                     I understood the process of end-to-end communication.
+                     I finished the "echo server" task on Linux by C.
 ### 4)problems：
+                     Linux multitreading
 ### 5)plan：
+             I tend to continue learning computer network,especially the Linux multitreading and the IO model
 ### 6）week2 code:https://github.com/HuanYeMengYu/week2code
 ## Week3
