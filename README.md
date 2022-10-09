@@ -35,6 +35,7 @@
 ### 4)problems：
                      Linux multitreading
 ### 5)plan：
-             I tend to continue learning computer network,especially the Linux multitreading and the IO model
+             I tend to continue learning computer network,especially the Linux multitreading and the IO model.
+             I'll learn the knowledge of communication.
 ### 6）week2 code:https://github.com/HuanYeMengYu/week2code
 ## Week3
