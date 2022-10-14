@@ -51,4 +51,4 @@
 ### 5)plan：
        continue to learn network programming(multithreading and I/O model)
        continue to learn 5G and communication knowledge deeper
-### 6)week3code:https://github.com/HuanYeMengYu/week3code
+### 6)week3 code:https://github.com/HuanYeMengYu/week3code
