@@ -39,3 +39,15 @@
              I'll learn the knowledge of communication.
 ### 6）week2 code:https://github.com/HuanYeMengYu/week2code
 ## Week3
+### 1)learning hours:
+       about 5~10hours（sommething happened accidently,and this week doesn't have weekends,so my learning hours declined）
+### 2)learning progress；
+       I'm learning knowledge of 5G and communication.
+### 3）implementation：
+       I tried the multithreading for a minimum model(only two threads with easy function)
+       I have a basic understand about 5G
+### 4)problems：
+       how to server multi-user
+### 5)plan：
+       continue to learn network programming(multithreading and I/O model)
+       continue to learn 5G and communication knowledge deeper
