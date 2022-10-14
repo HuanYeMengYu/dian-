@@ -27,6 +27,7 @@
 ### 1)learning hours:
               sun:roughly 15 hours
 ### 2)learning progress；
+                     I'm learning how to serve multi-user.
                      I'm learning the Linux multitreading and the IO model.
 ### 3）implementation：
                      I learnt the computer network structure.
